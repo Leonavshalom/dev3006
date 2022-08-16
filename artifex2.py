@@ -1,3 +1,3 @@
 def get_number():
     a = int(input("Please enter number: "))
-    return a
+    return a,b ## test commit
