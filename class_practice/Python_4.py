@@ -16,7 +16,7 @@ from time import sleep
 
 # from flask import Flask, request
 #
-# app = Flask("something")
+# app = Flask("leonardo")
 #
 #
 # @app.route('/whatismyname', methods=['GET', 'POST', 'DELETE'])
