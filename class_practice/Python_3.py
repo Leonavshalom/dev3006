@@ -106,3 +106,7 @@ def print_something():
 
 
 print_something()
+
+
+def dima(ruslan):
+    print("petsa")
